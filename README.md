@@ -1,4 +1,4 @@
-# Nick Tan - CV Website
+# Shi Sian - CV Website
 
 Welcome to my personal CV website! This website is a reflection of my journey, skills, and projects as a programmer.
 
@@ -47,4 +47,4 @@ I've successfully created AI-related projects, including sound recognition, bank
 - [GitHub](https://github.com/shisian512)
 - [LinkedIn](https://www.linkedin.com/in/tan-shi-sian-027884236/)
 
-© 2022 Nick Tan
+© 2022 Shi Sian
