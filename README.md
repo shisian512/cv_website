@@ -42,14 +42,9 @@ I've successfully created AI-related projects, including sound recognition, bank
 
 - **Team Building**: I am a dedicated team player who believes in the power of collaboration to achieve remarkable results.
 
-## Contact
-
-Feel free to reach out to me if you share a passion for programming! You can contact me via email: [shisian001@gmail.com](mailto:shisian001@gmail.com)
-
 ## Connect with Me
 
 - [GitHub](https://github.com/shisian512)
 - [LinkedIn](https://www.linkedin.com/in/tan-shi-sian-027884236/)
-- [Website](https://shisian512.github.io/cv/)
 
 © 2022 Nick Tan
